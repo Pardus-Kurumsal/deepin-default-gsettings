@@ -1,0 +1,7 @@
+[com.deepin.dde.zone]
+left-up="/usr/bin/dde-launcher"
+left-down="/usr/lib/deepin-daemon/desktop-toggle"
+right-down="dbus-send --print-reply --dest=com.deepin.dde.ControlCenter /com/deepin/dde/ControlCenter com.deepin.dde.ControlCenter.Toggle"
+right-up=""
+black-list=['pyrogenesis','0ad']
+white-list=['dde-launcher']

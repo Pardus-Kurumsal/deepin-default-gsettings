@@ -1,0 +1,12 @@
+deepin-default-gsettings (0.0.3) zesty; urgency=medium
+
+  [ Deepin Packages Builder ]
+  * merge gedit schemas value. 
+
+ -- lilongyu <leaeasy@gmail.com>  Thu, 03 Aug 2017 08:49:11 +0800
+
+deepin-default-gsettings (0.0.1) unstable; urgency=medium
+
+  * dummy version 0.0.1.
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Wed, 01 Jul 2015 19:39:25 +0800
